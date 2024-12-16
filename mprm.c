@@ -15,6 +15,7 @@ int pipes[NUM_CHILDREN][2];
 
 void child_process(int id) {
     // TODO: Implement child process logic
+    
 }
 
 int main() {
